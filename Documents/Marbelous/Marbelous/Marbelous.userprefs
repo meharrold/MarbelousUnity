@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Marbelous.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Utility\AutoMoveAndRotate.cs">
+    <Files>
+      <File FileName="Assets\Standard Assets\Utility\AutoMoveAndRotate.cs" Line="8" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
